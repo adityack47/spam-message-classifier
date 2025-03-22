@@ -1,9 +1,13 @@
-# Spam-Message-Classifier
+# Spam Message Classifier 🚀
 
-This project uses Scikit-learn’s Naïve Bayes classifier to classify messages as Spam or Not Spam based on a small dataset.
+A simple spam classifier using **Python, Pandas, and Scikit-learn**.
 
-Built a simple spam detector using Python, Pandas, and Scikit-learn.
+## Features:
+✅ Uses Naïve Bayes for spam detection  
+✅ Converts text to numerical features using CountVectorizer  
+✅ Classifies messages as **Spam** or **Not Spam**  
 
-Used Naïve Bayes classifier to classify messages with 80-90% accuracy.
-
-Processed text using CountVectorizer for feature extraction.
+## How to Run:
+1. Install dependencies:  
+   ```bash
+   pip install pandas scikit-learn
